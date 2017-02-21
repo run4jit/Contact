@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.0.1)
+  - RxCocoa (2.6.0):
+    - RxSwift (~> 2.5)
+  - RxCoreData (0.2.1):
+    - RxCocoa (~> 2.5)
+    - RxSwift (~> 2.5)
+  - RxDataSources (0.9):
+    - RxCocoa (~> 2.2)
+    - RxSwift (~> 2.2)
+  - RxOptional (3.1.3):
+    - RxCocoa
+    - RxSwift
+  - RxSwift (2.6.0)
+  - RxSwiftExt (1.2):
+    - RxSwift (~> 2.4)
+  - RxViewModel (3.1.3):
+    - RxSwift (~> 2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - RxCocoa
+  - RxCoreData
+  - RxDataSources
+  - RxOptional
+  - RxSwift
+  - RxSwiftExt
+  - RxViewModel
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  RxCocoa: 89ab00d5753502520227940e3a0e0a0413683c6b
+  RxCoreData: 366703b83ab1008a3108663f3d9e10f2080096b1
+  RxDataSources: e169bba94a7be584df7c1e1487fa56edc8753ae6
+  RxOptional: b97b59183af80d1e729ac9e51d09a10be668d6a8
+  RxSwift: 77f3a0b15324baa7a1c9bfa9f199648a82424e26
+  RxSwiftExt: f26dd04453d68193124d98684261c6721b5e141a
+  RxViewModel: d2a8f05c008b932131f590f34f4afba4b0948f9a
+
+PODFILE CHECKSUM: 6458bc365fde22ab3618a70108134fd03a3b7865
+
+COCOAPODS: 1.0.1
